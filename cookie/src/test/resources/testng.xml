@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="coffee suite">
+<test name="coffee test">
+<packages>
+<package name="coffeebox.cookie"/>
+</packages>
+</test>
+</suite>
